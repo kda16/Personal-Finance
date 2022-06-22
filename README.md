@@ -9,5 +9,5 @@ Study project as a part of **Programming and Data Processing 2020-2021**. Grade:
 - libraries used: JSON; RegEx; Requests; XML.etree.ElementTree
 
 ### Contents
-- *test.txt* - python code 
+- *main.py* - python code 
 - *spend.json* - database
